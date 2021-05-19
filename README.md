@@ -20,3 +20,10 @@ Francisco Martins - [@twitter_handle](https://twitter.com/0xfcmartins) - info@fr
 [stars-url]: https://github.com/0xfcmartins/jsanitize/stargazers
 [issues-url]: https://github.com/0xfcmartins/jsanitize/issues
 [license-url]: https://github.com/0xfcmartins/jsanitize/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/0xfcmartins/jsanitize.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/0xfcmartins/jsanitize.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/0xfcmartins/jsanitize.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/0xfcmartins/jsanitize.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[contributors-shield]: https://img.shields.io/github/contributors/0xfcmartins/jsanitize.svg?style=for-the-badge
+
