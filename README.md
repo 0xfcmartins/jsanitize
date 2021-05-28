@@ -5,7 +5,7 @@
 
 Java Sanitizer
 
-A ``` javax.validation.constraint``` implementation for a input sanitizer`
+A ``` javax.pt.fcmartins.Validation.constraint``` implementation for a input sanitizer`
 
 ## License
 
