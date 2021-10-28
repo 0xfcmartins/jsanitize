@@ -18,6 +18,7 @@ import static pt.fcmartins.utils.Constants.Validation.Error.VALID;
  * @author Francisco Martins
  * @version 2.000.010 @ 29/03/2021
  */
+
 public class Validator {
 
     private final static javax.validation.Validator instance = Validation.buildDefaultValidatorFactory().getValidator();
